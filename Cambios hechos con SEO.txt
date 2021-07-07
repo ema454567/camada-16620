@@ -1,0 +1,10 @@
+-Agregue el meta description en todas las páginas.
+-Agregue el meta keywords en todas las páginas.
+-Corregí las faltas de ortografía.
+-Agregue la etiqueta Header.
+-Agregue la etiqueta Footer.
+-Hice cambios en los nombres de algunos archivos para que sea mas facil identificarlos.
+-Hice cambios en los nombres de los Alt de las fotos de la página "galería".
+-Agregue etiquetas h1, h2, h3, etc. donde me parecia correcto agregarlas.
+-Agregue la etiqueta Article donde me parecio correcto.
+-Agregue la etiqueta section donde me parecio correcto.
